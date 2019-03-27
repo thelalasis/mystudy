@@ -18,7 +18,8 @@
 
 ### 2.0_基础及其他
 
-1. [连接GitHub](./Note/connect_to_github.md)
+1. [思路与框架整理](./Note/0000_mindmap.md)
+2. [连接GitHub](./Note/0001_connect_to_github.md)
 
 ### 2.1_机器学习
 
