@@ -33,6 +33,10 @@
 
 
 
+### 2.4_Raspberry Pi
+
+1. [基本安装](./RaspberryPi/基本安装.md)
+
 ## 3_阅读笔记
 
-学习整个项目通过vs2019来实施
+学习整个项目通过`vscode`, `jupyterlab`, `Typora`来实施
